@@ -1,15 +1,49 @@
-import React from 'react';
+import React, { useEffect, useState } from 'react';
 import { Feather as Icon, FontAwesome } from '@expo/vector-icons';
-import { useNavigation } from '@react-navigation/native';
+import { useNavigation, useRoute } from '@react-navigation/native';
 import { View, StyleSheet, Text, Image, TouchableOpacity, SafeAreaView } from 'react-native';
 import Constants from 'expo-constants';
 import { RectButton } from 'react-native-gesture-handler';
+import api from '../../services/api';
+
+interface Params {
+  point_id: number;
+}
+
+interface Data {
+  point: {
+    image: string;
+    name: string;
+    email: string;
+    whatsapp: string;
+    city: string;
+    uf: string;
+  },
+  items: {
+    title: string;
+  }[];
+}
 
 const Detail = () => {
+  const [data, setData] = useState<Data>({} as Data);
+
   const natigation = useNavigation();
+  const route = useRoute();
+
+  const routeParams = route.params as Params;
+
+  useEffect(() => {
+    api.get(`points/${routeParams.point_id}`).then(response => {
+      setData(response.data);
+    })
+  }, []);
 
   function handleNavigateBack() {
     natigation.goBack();
+  }
+
+  if(!data.point) {
+    return null;
   }
 
   return (
@@ -19,14 +53,16 @@ const Detail = () => {
           <Icon name="arrow-left" size={20} color="#34cb79" />
         </TouchableOpacity>
 
-        <Image style={styles.pointImage} source={{ uri: 'image' }} />
+        <Image style={styles.pointImage} source={{ uri: data.point.image }} />
 
-        <Text style={styles.pointName}>Mercadão do João</Text>
-        <Text style={styles.pointItems}>Lâmpadas, Óleo de Cozinha</Text>
+        <Text style={styles.pointName}>{data.point.name}</Text>
+        <Text style={styles.pointItems}>
+          {data.items.map(item => item.title).join(', ')}
+        </Text>
 
         <View style={styles.address}>
           <Text style={styles.addressTitle}>Endereço</Text>
-          <Text style={styles.addressContent}>Rio do Sul, SC</Text>
+          <Text style={styles.addressContent}>{data.point.city}, {data.point.uf}</Text>
         </View>
       </View>
 
