@@ -22,6 +22,10 @@
 
 <br/>
 
+<img alt="ecoleta" title="github_explorer" src=".github/capa.png" width="100%" />
+
+<br />
+
 <p align="center">
   <a href="#computer-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
