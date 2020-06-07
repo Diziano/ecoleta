@@ -40,6 +40,13 @@ O Ecoleta é um marketplace de coleta de resíduos, cujo principal objetivo é c
 ## :rocket: Tecnologias
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
+#### Back-end
+- [Node.js](https://nodejs.org/en)
+- [TypeScript](https://github.com/microsoft/TypeScript)
+- [Express](https://github.com/expressjs/express)
+- [sqlite](https://github.com/sqlite/sqlite)
+- [knex.js](https://github.com/knex/knex)
+
 #### Web
 - [ReactJS](https://github.com/facebook/react)
 - [TypeScript](https://github.com/microsoft/TypeScript)
@@ -51,13 +58,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [TypeScript](https://github.com/microsoft/TypeScript)
 - [expo](https://github.com/expo/expo)
 - [axios](https://github.com/axios/axios)
-
-#### Back-end
-- [Node.js](https://nodejs.org/en)
-- [TypeScript](https://github.com/microsoft/TypeScript)
-- [Express](https://github.com/expressjs/express)
-- [sqlite](https://github.com/sqlite/sqlite)
-- [knex.js](https://github.com/knex/knex)
 
 <br/>
 
@@ -110,12 +110,12 @@ Depois que o merge da sua pull request for feito, você pode deletar a sua branc
     $ npm run dev
 ```
 
-#### Front-end
+#### Web
 
 ```bash
 
     # Navegar para o diretório
-    $ cd frontend
+    $ cd web
     
     # Instalar as dependências
     $ npm
