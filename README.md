@@ -85,7 +85,7 @@ Depois que o merge da sua pull request for feito, você pode deletar a sua branc
 ```
 #### Back-end
 
-- No arquivo [knexfile.ts](knexfile.ts) configure os parâmetros de acesso ao banco de dados;
+- No arquivo [knexfile.ts](backend/knexfile.ts) configure os parâmetros de acesso ao banco de dados;
 
 - Para alterações do banco de dados aconselha-se utilizar a CLI do knex: <code>npx knex {seu comando}</code>. Confira a documentação [aqui](http://knexjs.org/).
 
