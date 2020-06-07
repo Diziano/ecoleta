@@ -70,6 +70,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Você pode visualizar o layout do projeto no formato através [desse link](https://www.figma.com/file/1SxgOMojOB2zYT0Mdk28lB/Ecoleta). Lembrando que você irá precisar ter uma conta no [Figma](http://figma.com/).
 
+<br />
+
 ## :thinking: Como contribuir
 
 - Faça um fork desse repositório;
