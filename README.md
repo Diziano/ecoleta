@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Ecoleta" title="Ecoleta" src=".github/logo.png" width="300px" />
+    <img alt="Ecoleta" title="Ecoleta" src=".github/logo.png" width="250px" />
 </h1>
 
 <p align="center">
@@ -19,13 +19,6 @@
   
   <img alt="GitHub" src="https://img.shields.io/github/license/Diziano/ecoleta?style=flat-square">
 </p>
-
-<br/>
-
-
-<h3 align="center">
-  Ecoleta
-</h3>
 
 <br/>
 
