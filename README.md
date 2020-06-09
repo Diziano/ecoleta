@@ -11,6 +11,7 @@
   <a href="#memo-licença">Licença</a>
 </p>
 
+<br/>
 
 <p align="center">
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/Diziano/ecoleta?style=flat-square">
