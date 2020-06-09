@@ -3,6 +3,17 @@
 </h1>
 
 <p align="center">
+  <a href="#computer-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#art-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#thinking-como-contribuir">Como contribuir</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#gear-como-configurar-e-executar">Como configurar e executar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-licença">Licença</a>
+</p>
+
+<br/>
+
+<p align="center">
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/Diziano/ecoleta?style=flat-square">
   
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/Diziano/ecoleta?style=flat-square">
@@ -27,16 +38,6 @@
 
 <br />
 
-<p align="center">
-  <a href="#computer-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#art-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#thinking-como-contribuir">Como contribuir</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#gear-como-configurar-e-executar">Como configurar e executar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
-</p>
-
-<br/>
 
 ## :computer: Projeto
 O Ecoleta é um marketplace de coleta de resíduos, cujo principal objetivo é contribuir com o meio ambiente. O projeto serve de ponte entre empresas ou entidades que coletam residuos organicos e inorganicos a pessoas que precisam descartar esses resíduos, como lâmpadas, pilhas e baterias, papéis e papelão, resídos eletrônicos, resíduos orgânicos e óleo de cozinha. O aplicativo exibe um mapa com os pontos de coletas, onde o usuário pode buscar os pontos mais próximos de sua residência. Esse é também um projeto de fins didáticos, desenvolvido durante a Next Level Week da [Rocketseat](https://rocketseat.com.br/).
