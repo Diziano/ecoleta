@@ -18,6 +18,7 @@
   </a>
   
   <img alt="GitHub" src="https://img.shields.io/github/license/Diziano/ecoleta?style=flat-square">
+  
 </p>
 
 <br/>
