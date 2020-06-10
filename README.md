@@ -38,7 +38,7 @@
 
 <br />
 
-<img alt="ecoleta" title="github_explorer" src=".github/mobile.gif" width="100%" />
+<img align="center" alt="ecoleta" title="github_explorer" src=".github/mobile.gif" width="336px" />
 
 <br />
 
