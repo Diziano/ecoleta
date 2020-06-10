@@ -39,7 +39,7 @@
 <br />
 
 <p align="center">
-  <img alt="ecoleta" title="github_explorer" src=".github/mobile.gif" width="336px" />
+  <img alt="ecoleta" title="github_explorer" src=".github/mobile.gif" width="300px" />
 </p>
 
 <br />
