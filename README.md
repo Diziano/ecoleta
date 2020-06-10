@@ -34,7 +34,7 @@
 
 <br/>
 
-<img alt="ecoleta" title="github_explorer" src=".github/desktop.gif" width="70%" />
+<img alt="ecoleta" title="github_explorer" src=".github/web.gif" width="70%" />
 <img alt="ecoleta" title="github_explorer" src=".github/mobile.gif" width="20%" />
 
 
