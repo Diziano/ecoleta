@@ -43,7 +43,7 @@
 
 
 ## :computer: Projeto
-O Ecoleta é um marketplace de coleta de resíduos, cujo principal objetivo é contribuir com o meio ambiente. O projeto serve de ponte entre empresas ou entidades que coletam residuos organicos e inorganicos a pessoas que precisam descartar esses resíduos, como lâmpadas, pilhas e baterias, papéis e papelão, resídos eletrônicos, resíduos orgânicos e óleo de cozinha. O aplicativo exibe um mapa com os pontos de coletas, onde o usuário pode buscar os pontos mais próximos de sua residência. Esse é também um projeto de fins didáticos, desenvolvido durante a Next Level Week da [Rocketseat](https://rocketseat.com.br/).
+O Ecoleta é um marketplace de coleta de resíduos, cujo principal objetivo é contribuir com o meio ambiente. O projeto serve de ponte entre empresas ou entidades que coletam resíduos organicos e inorgânicos a pessoas que precisam descartar esses resíduos, como lâmpadas, pilhas e baterias, papéis e papelão, resídos eletrônicos, resíduos orgânicos e óleo de cozinha. O aplicativo exibe um mapa com os pontos de coletas, onde o usuário pode buscar os pontos mais próximos de sua residência. Esse é também um projeto de fins didáticos, desenvolvido durante a Next Level Week da [Rocketseat](https://rocketseat.com.br/).
 
 <br/>
 
