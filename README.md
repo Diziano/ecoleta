@@ -34,13 +34,9 @@
 
 <br/>
 
-<img alt="ecoleta" title="github_explorer" src=".github/desktop.gif" width="100%" />
+<img alt="ecoleta" title="github_explorer" src=".github/desktop.gif" width="70%" />
+<img alt="ecoleta" title="github_explorer" src=".github/mobile.gif" width="20%" />
 
-<br />
-
-<p align="center">
-  <img alt="ecoleta" title="github_explorer" src=".github/mobile.gif" width="300px" />
-</p>
 
 <br />
 
