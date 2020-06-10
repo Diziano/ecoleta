@@ -34,7 +34,11 @@
 
 <br/>
 
-<img alt="ecoleta" title="github_explorer" src=".github/capa.png" width="100%" />
+<img alt="ecoleta" title="github_explorer" src=".github/desktop.gif" width="100%" />
+
+<br />
+
+<img alt="ecoleta" title="github_explorer" src=".github/mobile.gif" width="100%" />
 
 <br />
 
