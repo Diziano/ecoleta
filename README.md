@@ -35,8 +35,8 @@
 <br/>
 
 <h3>
-  <img alt="ecoleta" title="github_explorer" src=".github/web.gif" width="70%" />
-  <img alt="ecoleta" title="github_explorer" src=".github/mobile.gif" width="30%" />
+  <img alt="ecoleta" title="github_explorer" src=".github/web.gif" width="72.9%" />
+  <img alt="ecoleta" title="github_explorer" src=".github/mobile.gif" width="26.3%" />
 </h3>
 
 <br/>
