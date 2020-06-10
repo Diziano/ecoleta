@@ -108,7 +108,7 @@ Depois que o merge da sua pull request for feito, você pode deletar a sua branc
     $ cd backend
     
     # Instalar as dependências
-    $ npm
+    $ npm install
     
     # Executar migrations para criação das tabelas na base de dados
     $ npm run knex:migrate
@@ -131,7 +131,7 @@ Depois que o merge da sua pull request for feito, você pode deletar a sua branc
     $ cd web
     
     # Instalar as dependências
-    $ npm
+    $ npm install
 
     # Iniciar o projeto
     $ npm start
@@ -146,6 +146,9 @@ Depois que o merge da sua pull request for feito, você pode deletar a sua branc
 
     # Navegar para o diretório
     $ cd mobile
+    
+    # Instalar as dependências
+    $ npm install
 
     # Iniciar o projeto
     $ npm start
