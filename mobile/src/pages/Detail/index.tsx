@@ -51,7 +51,7 @@ const Detail = () => {
   function handleComposeMail() {
     MailComposer.composeAsync({
       subject: 'Interesse na coleta de resíduos',
-      recipients: ['data.point.email'],
+      recipients: [data.point.email],
     });
   }
 
@@ -98,7 +98,7 @@ const styles = StyleSheet.create({
   container: {
     flex: 1,
     padding: 32,
-    paddingTop: 20,
+    paddingTop: 20 + Constants.statusBarHeight
   },
 
   pointImage: {
